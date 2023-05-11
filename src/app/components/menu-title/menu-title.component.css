@@ -11,6 +11,14 @@
     justify-content: center;
 }
 
+.container__menu-title > h1 > .cine{
+    color: red;
+}
+
+.container__menu-title > h1 > .filos{
+    color: gray;
+}
+
 .container__menu-title > hr{
     margin-top: 20px;
     margin-bottom: 5px;
