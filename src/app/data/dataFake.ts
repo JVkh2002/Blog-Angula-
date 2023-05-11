@@ -46,5 +46,12 @@ export const dataFake = [
         "title": "Voz de Dutch em Red Dead revela aparição em Guardiões da Galáxia 3",
         "description": "Adaptação do conto A Vida de Chuck será dirigida e escrita por Mike Flanagan, de Doutor Sono e Residência Hill",
         "photoCover": "https://uploads.jovemnerd.com.br/wp-content/uploads/2023/05/vitrine_dutch_de_red_dead_redemption_em_guardioes_da_galaxia_3_nerdbunker__28u2l09vk-760x428.jpg"
+    },
+
+    {
+        "id": 8,
+        "title": "Como Darth Vader evoluiu de um papel pequeno ao coração da franquia Star Wars",
+        "description": "Conheça o processo de criação de um dos maiores vilões de todos os tempos",
+        "photoCover": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/04/star_wars_darth_vader_tudo_sobre__cv04bw-760x428.jpg"
     }
 ]
